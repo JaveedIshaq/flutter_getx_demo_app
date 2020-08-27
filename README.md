@@ -1,16 +1,8 @@
 # getx_app
 
-A new Flutter project.
+flutter_getx_demo_app
 
-## Getting Started
+## Screen Shots
+![A Flutter Resources App using Futter ](https://github.com/JaveedIshaq/flutter_getx_demo_app/blob/master/getx_app_loginview.png?raw=true?raw=true)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![A Flutter Resources App using Futter ](https://github.com/JaveedIshaq/flutter_getx_demo_app/blob/master/getx_app_homeview.png?raw=true?raw=true)
